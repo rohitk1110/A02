@@ -21,7 +21,7 @@ Launch the command line interface on your computer.
 
 ## Configure Your Identity
 
-### Set your name and email address for Git using the following commands, replacing "Your Name" and "your.email@example.com" with your actual information
+Set your name and email address for Git using the following commands, replacing "Your Name" and "your.email@example.com" with your actual information
 
 git config --global user.name "Your Name"
 
@@ -109,7 +109,7 @@ https://docs.github.com/en
 
 https://www.jetbrains.com/webstorm/learn
 
-## Glossary:
+## Glossary
 - **Branch**: A separate line of development in Git that allows you to work on a specific feature or bugfix without affecting the main code.
 
 - **Clone**: Creating a copy of a Git repository on your local computer to work with.
